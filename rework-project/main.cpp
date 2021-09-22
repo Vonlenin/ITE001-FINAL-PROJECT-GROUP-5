@@ -39,8 +39,8 @@ main()
                 // Pizza Flavors Sub Menu
                 case 1:
                     cout 
-                    << flush 
-                    << "Pizza Flavors:" << endl
+                    << flush
+                    << "\n Pizza Flavors:" << endl
                     << "1. Hawaiian" << endl
                     << "2. Bacon" << endl
                     << "3. Pepperoni" << endl
@@ -54,7 +54,7 @@ main()
                     case 1:
                     cout
                     << flush
-                    << "Pizza Sizes:" << endl
+                    << "\n Pizza Sizes:" << endl
                     << "1. 6 inches = ₱111.00" << endl
                     << "2. 9 inches = ₱245.00" << endl
                     << "3. 12 inches = ₱403.00" << endl
